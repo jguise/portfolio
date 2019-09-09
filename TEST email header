@@ -1,0 +1,97 @@
+ <style>
+    .newHeader {margin-top:10px;margin-bottom:10px;color:#101013;text-decoration:none;font-family:Missguided,Arial,Helvetica;font-size:14px;font-weight:600;}
+    .newHeader {width: 100%;}
+    .newHeader th {width: 25%;}
+    .newHeader th a {color:#333;text-decoration:none;text-align:center;font-family:Missguided,Arial,Helvetica;font-size:14px;font-weight:600;}
+    </style>
+  
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "GB" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "US" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "IE" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "EU" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "AU" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "FR" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "DE" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "ES" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "PL" %}
+<table class="newHeader">
+  <tr>
+   <th><a href="#"><img class="newHeaderLogo" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/missguidedwhite_2.gif" alt="Missguided Logo"></a></th> 
+   <th><a href="#">Link 1</a></th>
+   <th> <a href="#">Link 2</a></th>
+   <th><a href="#">Link 3</a></th>
+  </tr>
+</table>
+  {% endif %}
