@@ -1,0 +1,155 @@
+﻿<style>
+.item {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+	.item, .item a{
+		color: #333333;
+		text-decoration: none;
+		font-family: Missguided, Arial, Helvetica;
+		font-size: 14px;
+		font-weight: 600;
+	}
+	.itemPL {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+	.itemPL, .itemPL a{
+		color: #333333;
+		text-decoration: none;
+		font-family: Arial,;
+		font-size: 14px;
+		font-weight: 600;
+	}
+</style>
+
+
+
+<!--United Kingdom Unicorn -->
+       {% if segmentations['59afc4554aea9e2736ce044d'] == "GB" %} 
+   	{% if segmentations['5a5e006e4aea9e7d08f76d90'] == "true" %}
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguided.co.uk/">
+           	free next day delivery. <br/>remember to select 'unicorn class delivery' at the checkout
+           	</a></center>
+         </div>
+         </div>
+    {% endif %}
+    
+    <!--United Kingdom Non-Unicorn -->
+	{% if segmentations['5a5e006e4aea9e7d08f76d90'] != "true" %} 
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguided.co.uk/unicorn-class-premier-delivery">
+           	get free next day delivery for a whole year. just £9.99.
+           	</a></center>
+         </div>
+         </div>
+    {% endif %}
+        {% endif %}
+        
+        
+        
+<!-- France -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "FR" %} 
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguidedfr.fr/returns/">
+           	retours gratuits
+           	</a></center>
+         </div>
+         </div>
+   {% endif %}       
+        
+        
+        
+<!-- United States -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "US" %}   
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguidedus.com/delivery_explained">
+           	free standard shipping on all orders
+           	</a></center>
+         </div>
+         </div>
+   {% endif %}             
+   
+   
+   
+<!-- Australia -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "AU" %} 
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguidedau.com/delivery_explained">
+           	$5 standard shipping or free on orders over $100
+           	</a></center>
+         </div>
+         </div>
+   {% endif %}                     
+                        
+                        
+                        
+<!-- Germany -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "DE" %} 
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguided.com/de/delivery_explained">
+           	Kostenloser Standardversand ab 100€
+           	</a></center>
+         </div>
+         </div>
+   {% endif %} 
+ 
+
+
+<!-- Spain -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "ES" %} 
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguided.com/es/delivery_explained">
+           	Entrega estándar + Devoluciones gratuitas
+           	</a></center>
+         </div>
+         </div>
+   {% endif %}
+
+
+
+<!-- Europe -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "EU" %}   
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguided.eu/delivery_explained">
+           	5€ standard delivery
+           	</a></center>
+         </div>
+         </div>
+    
+   {% endif %}    
+        
+        
+        
+<!-- Ireland -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "IE" %}   
+      <div class="slider_content">
+         <div class="item">
+           <center><a href="https://www.missguided.com/ie/delivery_explained">
+           	€1 standard 48hr delivery on all orders
+           	</a></center>
+         </div>
+         </div>
+   {% endif %}            
+                
+                
+                
+<!-- Poland -->
+   {% if segmentations['59afc4554aea9e2736ce044d'] == "PL" %}  
+      <div class="slider_content">
+         <div class="itemPL">
+           <center><a href="https://www.missguided.com/pl/delivery_explained">
+           	darmowa przesyłka na zamówienia powyżej 250zł
+           	</a></center>
+         </div>
+         </div>
+   {% endif %}
