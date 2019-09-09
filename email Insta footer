@@ -1,0 +1,119 @@
+{% if segmentations['59afc4554aea9e2736ce044d'] == "GB" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:18px;">follow us on insta</a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "US" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:18px;">follow us on insta</a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "IE" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:18px;">follow us on insta</a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "EU" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:18px;">follow us on insta</a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "AU" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:18px;">follow us on insta</a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "FR" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "DE" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "ES" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
+  {% if segmentations['59afc4554aea9e2736ce044d'] == "PL" %}
+<table style="width:100%;">
+  <tr>
+  	<th>
+  		<a href="https://www.instagram.com/missguided/">
+  			<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/instarepeatnobg_3_1.gif"></a>
+  			<br/>
+  			<a href="https://www.instagram.com/missguided/" style="color:#484748;text-decoration:none;font-family:Missguided,Arial,Helvetica;line-height:15px;font-size:20px;">@missguided</a>
+  	</th>
+  </tr>
+  </table>
+  {% endif %}
