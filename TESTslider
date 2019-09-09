@@ -1,0 +1,48 @@
+ <style>
+    .slider {height:50px; overflow-x: auto; overflow-y: hidden; white-space: nowrap;width:100%;}
+    .item {
+    	height:65px;
+    	width:100%
+    float:left;
+    display: inline-block;
+    white-space: normal;
+    position: relative;
+    width: 75%;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-family: "Missguided", Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    color: #252525;
+    background-color: #Ffffff;
+    margin: 0 5px;
+    }
+    .item a {
+    	font-family: "Missguided", Helvetica, sans-serif;
+    	font-weight: bold;
+    	font-size: 16px;
+    	color: #252525;
+    	text-decoration: none;
+    }
+    </style>
+ 
+   <div class="slider">
+         <span class="item">
+           <center>
+           	<a href="https://www.missguided.co.uk/delivery_explained">
+           	free ND delivery over £30</a>
+           </center>
+         </span>
+         
+         <span class="item">
+<center><a href="https://www.missguided.co.uk/clothing/coats-jackets">
+		coats & jackets from £30</a></center>
+         </span>
+         
+         <span class="item">
+<center><a href="https://www.missguided.co.uk/unidays">
+         20% student discount</a></center>
+         </span>
+   </div>
