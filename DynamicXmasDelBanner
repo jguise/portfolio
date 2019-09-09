@@ -1,0 +1,99 @@
+<style>
+	.item, .vanImage {
+	text-align:center;
+}
+	.item a{
+		color:#333;
+		text-decoration:none;
+		font-family:"Missguided",Arial,Helvetica;
+		font-weight:600;
+	}
+</style>
+<div class="vanImage">
+<span><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/vandeliv2.gif" width="200px"></span><br/>
+</div>
+{% if segmentations['59afc4554aea9e2736ce044d'] == "GB" %}
+<div class="slider_content">
+<div class="item" >
+   <a href="https://www.missguided.co.uk/delivery_explained"> <span style="font-size:20px;">xmas delivery dates</span><br/>
+    <span style="font-size:14px;">order by <strong>22nd Dec</strong> with next day delivery<br/>to get it in time for christmas</span></a>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "FR" %}
+<div class="slider_content">
+<div class="item" >
+    <a href="https://www.missguidedfr.fr/delivery_explained"><span style="font-size:20px;">Dates de livraison pour Noël</span><br/>
+    <span style="font-size:14px;">Commandez avant le 20 Décembre en livraison standard<br/>pour recevoir votre colis à temps pour Noël</span></a>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "US" %}
+<div class="slider_content">
+<div class="item" >
+   <p>
+   	<a href="https://www.missguidedus.com/delivery_explained"> <span style="font-size:20px;">US delivery dates</span><br/>
+    <span style="font-size:14px;">order by 20th Dec with express shipping<br/>to get it in time for the holidays</span></a>
+    </p>
+       <p>
+   <a href="https://www.missguidedus.com/delivery_explained">	 <span style="font-size:20px;">CA delivery dates</span><br/>
+    <span style="font-size:14px;">order by 19th Dec with express shipping<br/>to get it in time for the holidays</span></a>
+    </p>
+    
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "AU" %}
+<div class="slider_content">
+<div class="item" >
+   <p>
+  <a href="https://www.missguidedau.com/delivery_explained"> <span style="font-size:20px;">AU delivery dates</span><br/>
+    <span style="font-size:14px;">order by 18th Dec with express shipping<br/>to get it in time for christmas</span></a>
+    </p>
+       <p>
+  <a href="https://www.missguidedau.com/delivery_explained"> <span style="font-size:20px;">NZ delivery dates</span><br/>
+    <span style="font-size:14px;">order by 20th Dec with express shipping<br/>to get it in time for new year</span></a>
+    </p>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "DE" %}
+<div class="slider_content">
+<div class="item">
+   <a href="https://www.missguided.com/de/delivery_explained"> <span style="font-size:20px;">Lieferdaten für Weihnachten</span><br/>
+    <span style="font-size:14px;">Bestelle bis zum 18. Dezember mit Standard + Express Lieferung<br/>damit alles bis Weihnachten da ist</span></a>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "ES" %}
+<div class="slider_content">
+<div class="item" style="text-align:center;color:#333;text-decoration:none;font-family:Missguided,Arial,Helvetica;font-weight:600">
+    <a href="https://www.missguided.com/es/delivery_explained"><span style="font-size:20px;">Días de entrega durante Navidades</span><br/>
+    <span style="font-size:14px;">Haz tu pedido antes del 21 de diciembre con entrega al día siguiente <br/>para ternerlo a tiempo para el 25</span></a>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "EU" %}
+<div class="slider_content">
+<div class="item" >
+    <a href="https://www.missguided.eu/delivery_explained"><span style="font-size:20px;">xmas delivery dates</span><br/>
+    <span style="font-size:14px;">order by 21st Dec with next day delivery<br/>to get it in time for christmas</span></a>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "IE" %}
+<div class="slider_content">
+<div class="item" >
+   <a href="https://www.missguided.com/ie/delivery_explained"> <span style="font-size:20px;">xmas delivery dates</span><br/>
+    <span style="font-size:14px;">order by 20th Dec with next day delivery<br/>to get it in time for christmas</span></a>
+</div>
+</div>
+{% endif %}
+{% if segmentations['59afc4554aea9e2736ce044d'] == "PL" %}
+<div class="slider_content">
+<div class="item">
+   <a href="https://www.missguided.com/pl/delivery_explained"> <span style="font-size:20px;">Daty ostatnich zamówień świątecznych</span><br/>
+    <span style="font-size:14px;">Zrób zakupy najpóźniej w dniu 21 Grudnia z przesyłką na Następny Dzień,<br/>aby otrzymać swoje zamówienie przed Świętami. </span></a>
+</div>
+</div>
+{% endif %}
