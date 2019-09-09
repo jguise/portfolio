@@ -1,0 +1,75 @@
+ <p>
+      {% if segmentations['59afc4554aea9e2736ce044d'] == "GB" %} 
+   	{% if segmentations['5b30cde84aea9e18723bcd60'] == "true" %}
+         </p>
+    <div class="autoAppBanner" style="margin-top:10px;margin-bottom:10px;padding-top:10px;padding-bottom:30px;">
+      <center><a href="https://itunes.apple.com/gb/app/missguided/id842503500/" style="color:#333333;text-decoration:none;font-family:Missguided, Arial, Helvetica;font-size:14px;font-weight:600;padding-top:10px;padding-bottom:10px;">
+          <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/apbannernew2_1_2.gif" width="20%" style="padding-top:10px;padding-bottom:10px;"><br/>
+           	Don't miss out on all the good stuff.<br/>
+            Make sure your notifications are turned on.<br/>
+           	<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/appbannerlogo2_1_2.jpg" width="40%" style="padding-top:10px;padding-bottom:10px;">
+        </a></center>
+    </div>
+    {% endif %}
+    <!--United Kingdom and i0S and No app -->
+    {% if segmentations['5ae733a84aea9e7b3b2727c4'] == "true" %} 
+         
+    <div class="autoAppBanner" style="margin-top:10px;margin-bottom:10px;padding-top:10px;padding-bottom:30px;">
+      <center><a href="https://itunes.apple.com/gb/app/missguided/id842503500" style="color:#333333;text-decoration:none;font-family:Missguided, Arial, Helvetica;font-size:14px;font-weight:600;padding-top:10px;padding-bottom:10px;">
+          <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/apbannernew2_1_2.gif" width="20%" style="padding-top:10px;padding-bottom:10px;"><br/>
+           	holla! download our app to shop exclusive offers on the go<br/>
+           	<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/appbannerlogo2_1_2.jpg" width="40%" style="padding-top:10px;padding-bottom:10px;">
+        </a></center>
+    </div>
+    {% endif %}
+        {% endif %}
+        <!--United Kingdom and Android and has app -->
+    {% if segmentations['59afc4554aea9e2736ce044d'] == "GB" %} 
+   	{% if segmentations['5b30cd864aea9e18723bcd5d'] == "true" %}
+         
+    <div class="autoAppBanner" style="margin-top:10px;margin-bottom:10px;padding-top:10px;padding-bottom:30px;">
+      <center><a href="https://play.google.com/store/apps/details?id=com.poqstudio.app.platform.missguided" style="color:#333333;text-decoration:none;font-family:Missguided, Arial, Helvetica;font-size:14px;font-weight:600;padding-top:10px;padding-bottom:10px;">
+          <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/apbannernew2_1_2.gif" width="20%" style="padding-top:10px;padding-bottom:10px;"><br/>
+           	Don't miss out on all the good stuff.<br/>
+            Make sure your notifications are turned on.<br/>
+           	<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/appbannergoogleplay_1_2.jpg" width="40%" style="padding-top:10px;padding-bottom:10px;">
+        </a></center>
+    </div>
+    {% endif %}
+    <!--United Kingdom and Android and No app -->
+    {% if segmentations['5ae7336f4aea9e7b4d31cf4f'] == "true" %} 
+         
+    <div class="autoAppBanner" style="margin-top:10px;margin-bottom:10px;padding-top:10px;padding-bottom:30px;">
+      <center><a href="https://play.google.com/store/apps/details?id=com.poqstudio.app.platform.missguided" style="color:#333333;text-decoration:none;font-family:Missguided, Arial, Helvetica;font-size:14px;font-weight:600;padding-top:10px;padding-bottom:10px;">
+          <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/apbannernew2_1_2.gif" width="20%" style="padding-top:10px;padding-bottom:10px;"><br/>
+           	holla! download our app to shop exclusive offers on the go<br/>
+           	<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/appbannergoogleplay_1_2.jpg" width="40%" style="padding-top:10px;padding-bottom:10px;">
+        </a></center>
+    </div>
+    {% endif %}
+        {% endif %}
+    <!-- US and i0S and has app -->
+    {% if segmentations['59afc4554aea9e2736ce044d'] == "US" %} 
+   {% if segmentations['5b30cde84aea9e18723bcd60'] == "true" %}
+         
+    <div class="autoAppBanner" style="margin-top:10px;margin-bottom:10px;padding-top:10px;padding-bottom:30px;">
+      <center><a href="https://itunes.apple.com/us/app/missguided/id842503500" style="color:#333333;text-decoration:none;font-family:Missguided, Arial, Helvetica;font-size:14px;font-weight:600;padding-top:10px;padding-bottom:10px;">
+          <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/apbannernew2_1_2.gif" width="20%" style="padding-top:10px;padding-bottom:10px;"><br/>
+           	Don't miss out on all the good stuff.<br/>
+            Make sure your notifications are turned on.<br/>
+           	<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/appbannerlogo2_1_2.jpg" width="40$" style="padding-top:10px;padding-bottom:10px;">
+        </a></center>
+    </div>
+    {% endif %}       
+    <!-- US and iOS and  No app -->
+    {% if segmentations['5ae733a84aea9e7b3b2727c4'] == "true" %}  
+         
+    <div class="autoAppBanner" style="margin-top:10px;margin-bottom:10px;padding-top:10px;padding-bottom:30px;">
+      <center><a href="https://itunes.apple.com/us/app/missguided/id842503500" style="color:#333333;text-decoration:none;font-family:Missguided, Arial, Helvetica;font-size:14px;font-weight:600;padding-top:10px;padding-bottom:10px;">
+          <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/apbannernew2_1_2.gif" width="20%" style="padding-top:10px;padding-bottom:10px;"><br/>
+           	holla! download our app to shop exclusive offers on the go<br/>
+           	<img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/ae52a6e2-ca6a-4d8e-8944-532f952aae85/1a13834a-88a7-11e7-a6e4-305a3a75dd9b/editor_images/appbannerlogo2_1_2.jpg" width="40%" style="padding-top:10px;padding-bottom:10px;">
+        </a></center>
+    </div>
+    {% endif %}   
+   {% endif %}  
