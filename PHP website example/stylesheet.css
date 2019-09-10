@@ -1,0 +1,119 @@
+@charset "UTF-8";
+
+body {
+      text-align:center;
+      font-family: Arial, Helvetica, sans-serif;
+	    color:#414048;
+      font-size:14px;
+}
+
+header {
+    background-color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#logo {
+  width: 50%;
+}
+
+.me {
+  width: 40%;
+}
+
+section {
+  text-align:center;
+    padding:10px;
+}
+section a {
+  color: #5cc1a9;
+}
+
+footer {
+    margin-top:30px;
+    background-color: #5cc1a9;
+    color: #ffffff; 
+    clear:both;
+    text-align:center;
+    padding:5px;
+
+}
+
+/* Headings */
+h1 {
+font-size: 20px;
+margin-bottom: 5px;
+}
+h2 {
+font-size: 16px;
+margin-bottom: 5px;
+}
+h3 {
+font-size: 16px;
+margin-bottom: 5px;
+}
+h4{
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+
+/*Navigation*/
+.navUnselected {
+  color: #414048;
+}
+
+ul.topnav li a:hover {
+  background-color: #5cc1a9;
+  color: #ffffff; 
+}
+
+ul.topnav li.icon {
+  display: none;
+} 
+
+ul.topnav {
+    text-align:center;
+    list-style-type: none;
+    margin: 0;
+    padding-bottom: 20px;
+    overflow: hidden;
+    background-color: #fff;
+}
+ul.topnav li {
+  display:inline;
+}
+ul.topnav li a {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+
+
+/* Age Calculator
+#dayOfBirth {
+    width: 20px;
+}
+#monthOfBirth {
+    width: 20px;
+}
+#yearOfBirth {
+    width: 40px;
+}*/
+
+
+
+/* Media Queries */
+@media screen and (max-width:680px) {
+.me {
+  width: 75%;
+}
+
+#logo {
+  width: 90%;
+}
+}
